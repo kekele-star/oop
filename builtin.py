@@ -15,4 +15,4 @@ print(kenwood.price)
 
 hamilton = Kettle("Hamilton", 14.55)
 
-print(f"Models: {kenwood.make}, {kenwood.price}, {hamilton.make}, {hamilton.price}")
+print(f"Models: {kenwood.make}, {kenwood.price}, {hamilton.make}, {hamilton.price}") 
